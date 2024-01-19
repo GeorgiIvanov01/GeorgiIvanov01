@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeorgiIvanov01
+- 👋 Hi, I’m @Georgi Ivanov
 - 👀 I’m interested in programing
 - 🌱 I’m currently learning C#
 
